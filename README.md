@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 I loveee getting crazy and give death stares at bugss  !! and iiiiiii love to work on anything ...side effects of working with me will be you getting crazy with me 😊.....
 😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁eeeeeeeeeeeeeeeee
+[![Sriranjini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sneekyboots&theme=dracula)](https://github.com/Sneekyboots/github-readme-activity-graph)
