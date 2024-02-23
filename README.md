@@ -9,7 +9,7 @@ Sneekyboots/Sneekyboots is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![GIF-Dancing-dance-funny-kid-silly-GIF](https://github.com/Sneekyboots/Sneekyboots/assets/130485384/ec61536b-2524-47cb-9fe0-bd6489933d53)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneekyboots&size_weight=0.5&count_weight=0.5)
 
 I loveee getting crazy and give death stares at bugss  !! and iiiiiii love to work on anything ...side effects of working with me will be you getting crazy with me 😊.....
 😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁😁eeeeeeeeeeeeeeeee
