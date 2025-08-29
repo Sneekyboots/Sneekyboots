@@ -1,5 +1,13 @@
 <!-- Animated Typing Banner -->
 
+<table align="center">
+  <tr>
+    <td><img src="b0cdc213623959ccf69f3eb602e502da.gif" width="120"></td>
+    <td><img src="Screenshot 2025-08-29 201635.png" width="500"></td>
+  </tr>
+</table>
+
+
 
 ---
 ### 🥷 About Me
@@ -9,7 +17,7 @@ If it runs fast, breaks elegantly, or makes people laugh → I’ll build it.
 
 Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
  <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="250"/>
 </p>
 
 ---
@@ -33,7 +41,7 @@ Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
 - 🛰️ **Zero-Knowledge Proof-of-Location** → Ninja-style location proof  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="100%"/>
+  <img src="cad896cd7d46971543cd0ddc468a89e9 (1).jpg" width="50%"/>
 </p>
 
 ---
@@ -47,16 +55,11 @@ Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
 - And yes… **Goofy Ducks 🦆** → still figuring out their world domination plan.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/wrSkG63T3f8U4/giphy.gif" width="250"/>
+  <img src="b38b8a41e3b5c31dff34a5f6e5018dac_720w.gif" width="250"/>
 </p>
 
 ---
 
-### 📊 Stats (aka proof I don’t just vibe)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneekyboots&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneekyboots&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
 
 ---
 
@@ -64,7 +67,7 @@ Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
 - Backend supremacy (fight me frontend folks 💅).  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM4Ynpsend2OGthOGp6Zmp6cHI0dnV0dGQ4MmNsdGE2bDM3b2R6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fuJjrm6Cv2onpmpPEK/giphy.gif" width="250"/>
+  <img src="download.jpeg" width="250"/>
 </p>
 
 - Can debug segfaults and still dance to EDM.  
@@ -73,7 +76,8 @@ Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
 - Loves being the **main character** — at least in my own README 😏.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jn4UHDH5Wn7h37Yj4f/giphy.gif" width="250"/>
+  <img src="b38b8a41e3b5c31dff34a5f6e5018dac_720w.gif
+" width="250"/>
 </p>
 
 ---
