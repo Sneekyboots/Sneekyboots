@@ -60,9 +60,6 @@ Right now I’m on a **Rust grind** ⚡(Dramatic me rn!)
 
 ---
 
-
----
-
 ### 🎵 Fun Mode
 - Backend supremacy (fight me frontend folks 💅).  
 
