@@ -18,7 +18,7 @@ I'm a backend sorcerer with **Rust** 🦀 and **C++** ⚙️ as my primary spell
 
 I'm a **blockchain beginner** currently channeling my backend energy into learning **Solana** and the high-speed mechanics of **Turbine**. My motto is: if it runs fast, breaks elegantly, or makes people laugh &rarr; I’ll build it.
 
-Right now, I'm on a **Rust/Solana grind** ⚡: Transitioning from traditional systems to writing high-speed programs on a decentralized network.
+Dramatic me Right now, I'm on a **Rust/Solana grind** ⚡: Transitioning from traditional systems to writing high-speed programs on a decentralized network.
 
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="180" alt="Anime character dramatically powering up"/>
