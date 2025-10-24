@@ -3,7 +3,7 @@
 <p align="center" style="display: flex; align-items: center; justify-content: center; height: 120px;">
   <img src="b0cdc213623959ccf69f3eb602e502da.gif" width="100" alt="Animated icon" style="margin-right: 20px;" />
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&weight=700&pause=1800&color=%23FF6F61&background=00000000&width=600&height=100&lines=SRIRANJINI&center=true&letterSpacing=6" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&weight=700&pause=1800&color=%23FF6F61&background=00000000&width=600&height=100&lines=RUTH&center=true&letterSpacing=6" 
     alt="Typing animation of SRIRANJINI"
     style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.4)); margin-top: 8px;"
   />
