@@ -15,7 +15,7 @@
 
 I'm a backend sorcerer with **Rust** 🦀 and **C++** ⚙️ as my primary spellbooks. I specialize in building high-performance **systems, games, and infrastructure**.
 
-I'm a **blockchain beginner** currently channeling my backend energy into learning **Solana** and the high-speed mechanics of **Turbine**. My motto is: if it runs fast, breaks elegantly, or makes people laugh &rarr; I’ll build it.
+I'm a **blockchain beginner** currently channeling my backend energy into learning **Solana**. My motto is: if it runs fast, breaks elegantly, or makes people laugh &rarr; I’ll build it.
 
 Dramatic me Right now, I'm on a **Rust/Solana grind** ⚡: Transitioning from traditional systems to writing high-speed programs on a decentralized network.
 
@@ -55,23 +55,6 @@ These projects showcase my technical depth in systems, AI, and complex logic:
 <p align="center">
 <img src="cad896cd7d46971543cd0ddc468a89e9 (1).jpg" width="40%" alt="A grid of project screenshots/logos" style="border-radius: 8px;"/>
 </p>
-
------
-
-### 🤡 Side Quests (Solana & Silly Stuff)
-
-The stuff I build to amuse myself (and confuse others):
-
-  * **Solana Cursed To-Do List:** Pay gas fees to remember milk 🥛.
-  * **MyBuds 📝:** Three sarcastic AI personalities who roast you, sass you, and *also* lowkey help with your problems.
-  * **Potato Politics Simulator** 🥔🗣️.
-  * **Goofy Ducks 🦆:** Still figuring out their world domination plan.
-
-<p align="center">
-<img src="b38b8a41e3b5c31dff34a5f6e5018dac_720w.gif" width="200" alt="A duck walking confidently"/>
-</p>
-
------
 
 ### 💡 Fun Mode & Philosophy
 
