@@ -12,12 +12,9 @@
 ----
 
 ### 🥷 About Me
-
-I'm a backend sorcerer with **Rust** 🦀 and **C++** ⚙️ as my primary spellbooks. I specialize in building high-performance **systems, games, and infrastructure**.
-
-I'm a **blockchain beginner** currently channeling my backend energy into learning **Solana**. My motto is: if it runs fast, breaks elegantly, or makes people laugh &rarr; I’ll build it.
-
-Dramatic me Right now, I'm on a **Rust/Solana grind** ⚡: Transitioning from traditional systems to writing high-speed programs on a decentralized network.
+Just a human figuring out life, career, and what truly matters ❤️
+An animator and creator who notices the tiny details people love, and builds with empathy, care, and heart.
+I also enjoy creating high-performance systems using Rust and C++, and I’m currently learning Solana at my own pace.
 
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="180" alt="Anime character dramatically powering up"/>
