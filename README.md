@@ -1,4 +1,4 @@
-## ⚡ Sneekyboots | Backend and  Systems Engineer (Rust 🦀)
+## ⚡ Sneekyboots | Backend and  Systems Engineer|
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; height: 120px;">
   <img src="b0cdc213623959ccf69f3eb602e502da.gif" width="100" alt="Animated icon" style="margin-right: 20px;" />
