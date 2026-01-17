@@ -14,7 +14,7 @@
 ### 🥷 About Me
 Just a human figuring out life, career, and what truly matters ❤️
 An animator and creator who notices the tiny details people love, and builds with empathy, care, and heart.
-I also enjoy creating high-performance systems using Rust and C++, and I’m currently learning Solana at my own pace.
+I also enjoy creating some pretttty cooool stuff in c++ and rust(ikkkkkr), and I’m currently building on  Solana  at my own pace.
 
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="180" alt="Anime character dramatically powering up"/>
@@ -73,6 +73,5 @@ These projects showcase my technical depth in systems, AI, and complex logic:
 
 <p align="center">
 <a href="mailto:sneekyboots122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-<a href="https://linkedin.com/in/sriranjini-ks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://github.com/Sneekyboots"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
