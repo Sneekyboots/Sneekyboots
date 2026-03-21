@@ -1,77 +1,91 @@
-## ⚡ Sneekyboots | Backend and  Systems Engineer|
+<div align="center">
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; height: 120px;">
-  <img src="b0cdc213623959ccf69f3eb602e502da.gif" width="100" alt="Animated icon" style="margin-right: 20px;" />
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&weight=700&pause=1800&color=%23FF6F61&background=00000000&width=600&height=100&lines=RUTH&center=true&letterSpacing=6" 
-    alt="Typing animation of SRIRANJINI"
-    style="filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.4)); margin-top: 8px;"
-  />
-</p>
+<img src="b0cdc213623959ccf69f3eb602e502da.gif" width="90" alt="Animated icon" />
 
-----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&weight=700&pause=1800&color=%23FF6F61&background=00000000&width=620&height=110&lines=RUTH&center=true&letterSpacing=8" alt="RUTH" />
 
-### 🥷 About Me
-Just a human figuring out life, career, and what truly matters ❤️
-An animator and creator who notices the tiny details people love, and builds with empathy, care, and heart.
-I also enjoy creating some pretttty cooool stuff in c++ and rust(ikkkkkr), and I’m currently building on  Solana  at my own pace.
+**`sneekyboots` · backend & systems · sometimes just a goofhead`**
 
-<p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2MzcDRwNzN4ZHc1dms5a2x1dWNqNWUzMzl6ZXUyemdjZmZva3VnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K1wWpRWxRc2FseMy5f/giphy.gif" width="180" alt="Anime character dramatically powering up"/>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sneekyboots122@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Sneekyboots)
 
------
+</div>
 
-### ⚙️ Core Stack
+---
 
-| Category | Key Tech & Vibe |
-| :--- | :--- |
-| **Backend / Systems** | **Rust** (Memory safety but make it metal 🤘) &bull; **C++** (Pain, but character-building pain) &bull; Performance Tuning |
-| **Blockchain (Learning)** | **Solana** (Native Rust Programs) &bull; Anchor &bull; ZK Proofs &bull; EVM/Solidity basics |
-| **Games** | Unity &bull; Gamemaker &bull; AR/VR &bull; Random cursed prototypes |
+```
+> WHO_AM_I.exe
 
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJkeXZmMGk4YmYxZWcwOW1ydjM1MmY4eHhrNDlkOXJ6NjZsN2k5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif" width="150" alt="A robot typing fast"/>
-</p>
+Loading...  ████████████████  100%
 
------
+Maybe a panda. Maybe an owl. Definitely compiling something cursed right now.
+An animator and systems engineer who notices the tiny details people love
+ then builds something unreasonably cool with them.
+Currently applying systems-level Rust knowledge to Solana programs
+at Hogwarts (aka Turbine). 
+```
 
-### 🚀 Great Projects & Wins (Proving I Can Build)
+<div align="center">
+</div>
 
-These projects showcase my technical depth in systems, AI, and complex logic:
-### 🚀 Projects & Wins  
-| Project                    | Description                             | Highlight                   |
-|----------------------------|---------------------------------------|-----------------------------|
-| 🧬 Cyto Sherlock           | AI pathology assistant                 | 🏆 AWS Hackathon Winner     |
-| 🌱 Bhoomi                  | Crop & soil analytics                  | Google HackforChange         |
-| 🛰️ ZK Proof-of-Location    | Privacy-preserving location proofs    | Early ZK experiments         |
-| 🎮 Gamers DAO             | Experimental governance for gamers    | Open Source                 |
-| 🐍 Rust Snake             | Masochist-grade systems-level Snake   | Source Available             |
+---
 
+## ⚙️ Stack
 
-<p align="center">
-<img src="cad896cd7d46971543cd0ddc468a89e9 (1).jpg" width="40%" alt="A grid of project screenshots/logos" style="border-radius: 8px;"/>
-</p>
+> *my secret stack ig*
 
-### 💡 Fun Mode & Philosophy
+| Layer | What I'm working with |
+|---|---|
+| 🦀 **Systems** | Rust · C++ · Performance tuning · Pain (affectionate) |
+| ⛓️ **Blockchain** | Solana native programs · Anchor · ZK Proofs · EVM / Solidity |
+| 🎮 **Games** | Unity · GameMaker · AR/VR · random cursed prototypes |
 
-| Aspect | The Vibe |
-| :--- | :--- |
-| **Battlefield** | Backend supremacy (fight me frontend folks 💅). |
-| **Current Mission** | Applying systems-level Rust knowledge to Solana programs. |
-| **Hidden Talent** | Can debug segfaults and still dance to EDM. |
-| **Motto** | *"If it’s cursed but compiles &rarr; it lives."* |
-| **Ego** | Loves being the **main character** — at least in my own README 😏. |
+---
 
-<p align="center">
-<img src="download.jpeg" width="150" alt="A tiny, pixelated wizard raising a staff"/>
-</p>
+## 🏆 Projects & Wins
 
------
+> *I wish I could include some personal stuff here but keeping it professional 🫡*
 
-### 🌍 Connect With Me
+| Project | What it does | The win |
+|---|---|---|
+| 🔬 **Cyto Sherlock** | AI pathology assistant | 🥇 AWS Hackathon Winner |
+| 🌱 **Bhoomi** | Crop & soil analytics | Google HackforChange |
+| 🔐 **ZK Proof-of-Location** | Privacy-preserving location proofs | Early ZK experiments |
+| 🎮 **Gamers DAO** | Experimental governance for gamers | Open Source |
+| ✨ **Nexus** | *you know* | Personal W |
 
-<p align="center">
-<a href="mailto:sneekyboots122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-<a href="https://github.com/Sneekyboots"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-</p>
+---
+
+## 💡 The Vibe
+
+```
+Battlefield      →  Backend supremacy. Fight me, frontend folks.
+Current mission  →  Solana programs in native Rust. The good pain.
+Hidden talent    →  Can debug segfaults and still dance to EDM.
+Ego check        →  Main character. At least in my own README.
+Motto            →  "If it's cursed but compiles → it lives."
+Species          →  Panda? Owl? Compilation unit? TBD.
+```
+
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJkeXZmMGk4YmYxZWcwOW1ydjM1MmY4eHhrNDlkOXJ6NjZsN2k5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif" width="140" alt="Robot typing fast" />
+</div>
+
+---
+
+## 🌍 Connect
+
+> I eat good — you better come with something interesting, hun.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/sneekyboots122%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneekyboots122@gmail.com)
+[![GitHub](https://img.shields.io/badge/Sneekyboots-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneekyboots)
+
+<br/>
+
+<img src="download.jpeg" width="120" alt="Tiny pixelated wizard" />
+
+*"If it compiles, it ships. If it ships, it lives. If it lives... good luck."*
+
+</div>
