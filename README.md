@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&weight=700&pause=1800&color=%23FF6F61&background=00000000&width=620&height=110&lines=RUTH&center=true&letterSpacing=8" alt="RUTH" />
 
-**`sneekyboots` · backend & systems · sometimes just a goofhead`**
+**`sneekyboots` · backend & systems · Rust and AI.Rapid Prototype dev.sometimes just a goofhead`**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sneekyboots122@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Sneekyboots)
